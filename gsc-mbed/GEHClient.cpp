@@ -16,7 +16,7 @@
 #define MAX_NUMBER_MESSAGE 1024
 
 #define VERSION "2.0"
-#define FILE_CONFIG "/gelib_key.json"
+#define FILE_CONFIG "/gsc-services.json"
 #define URL_REGISTER "/proxy/v1/conn/register"
 #define URL_RENAME_CONNECTION "/proxy/v1/conn/rename"
 
