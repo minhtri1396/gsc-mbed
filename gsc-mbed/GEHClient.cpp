@@ -17,8 +17,8 @@
 
 #define VERSION "2.0"
 #define FILE_CONFIG "/gsc-services.json"
-#define URL_REGISTER "/proxy/v1/conn/register"
-#define URL_RENAME_CONNECTION "/proxy/v1/conn/rename"
+#define URL_REGISTER "/v1/conn/register"
+#define URL_RENAME_CONNECTION "/v1/conn/rename"
 
 #define build_request(msgType, dest, encode_func, buffer, status)\
     gschub_Letter letter = gschub_Letter_init_default;\
