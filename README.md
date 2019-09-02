@@ -10,7 +10,7 @@ Library is used in Embedded System to connect to Goldeneye Hubs System.
 
 2. Copy `gsc-services.json` to folder `data` in your project PlatformIO (create folder `data` if it is not existed).
 
-3. Copy folder `grpc` + `gsc-mbed` to folder `lib` in your project PlatformIO.
+3. Copy folder `grpc` + `gsc-lib` to folder `lib` in your project PlatformIO.
 
 ## Example
 
